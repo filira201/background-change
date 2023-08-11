@@ -1,0 +1,1 @@
+export const HEXALPHABET = "0123456789ABCDEF";
